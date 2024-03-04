@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/cms",
+    "autoload": {
+        "classmap": [
+            "classes"
+        ],
+        "psr-4": {
+            "Lenovo\\Cms\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "5.2.28"
+    }
+}
